@@ -1,0 +1,1 @@
+To run the crawler, create a virtual environment, install requirements, then run python main.py
